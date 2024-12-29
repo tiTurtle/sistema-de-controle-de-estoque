@@ -218,20 +218,3 @@ def exibir_relatorio(estoque):
     print(f"{'Custo Total:':<45}{custo_total:>32.2f}")
     print(f"{'Faturamento Total:':<45}{faturamento_total:>32.2f}")
 
-
-
-
-
-""" atualizar_preco() """
-""" filtro_baixa_quantidade(tratar_dados_estoque(estoque_inicial)) """
-""" listar_produtos(tratar_dados_estoque(estoque_inicial)) """
-
-""" buscar_produtos() """
-
-""" print(tratar_dados_estoque(estoque_inicial))
-remover_produtos() """
-
-""" consultar_produtos_esgotados(tratar_dados_estoque(estoque_inicial)) """
-""" ordenar_produtos(tratar_dados_estoque(estoque_inicial)) """
-""" atualizar_quantidade() """
-""" atualizar_preco() """
